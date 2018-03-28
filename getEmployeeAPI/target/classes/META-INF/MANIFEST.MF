@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: getCalisanAPI
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: dêrzînek
+Implementation-Vendor-Id: com.kayaon
+Build-Jdk: 1.8.0_45
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/getCalisanAPI
+Created-By: Maven Integration for Eclipse
+
